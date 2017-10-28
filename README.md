@@ -23,12 +23,12 @@ The application exposes a REST API to extract structured information from a PAN 
 
 Things to consider
 
-● Choice of frameworks and other tools.
-● Synchronous vs asynchronous processing.
-● Scalability (How well can it handle lots of traffic?)
-● Edge cases. (Note that the source file is sourced from the customer directly).
-● Testability of the code with at least basic sanity tests.
-● Code should be of production quality.
+* Choice of frameworks and other tools.
+* Synchronous vs asynchronous processing.
+* Scalability (How well can it handle lots of traffic?).
+* Edge cases. (Note that the source file is sourced from the customer directly).
+* Testability of the code with at least basic sanity tests.
+* Code should be of production quality.
 
 Human Feedback
 
@@ -47,8 +47,8 @@ The person earns corresponding points with each action taken. This web applicati
 
 Things to consider
 
-● Device-responsive and mobile-first (We’re living in mobile world, after all).
-● Choice of frameworks and other tools.
-● Graceful handling of errors and edge cases.
-● Testability of the code with some basic sanity tests.
-● Code should be of production quality.
+* Device-responsive and mobile-first (We’re living in mobile world, after all).
+* Choice of frameworks and other tools.
+* Graceful handling of errors and edge cases.
+* Testability of the code with some basic sanity tests.
+* Code should be of production quality.
